@@ -47,4 +47,3 @@ kotlin {
 flutter {
     source = "../.."
 }
-org.gradle.java.home=C:/Program Files/Android/Android Studio/jbr
